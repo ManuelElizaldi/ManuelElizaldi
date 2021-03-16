@@ -1,7 +1,7 @@
-### Howdy y'all 👋, Welcome to Manuel Elizaldi's GitHub Profile!
+# Howdy y'all 👋, Welcome to Manuel Elizaldi's GitHub Profile!
 Passionate about the stories data can tell and how they can help us take better decisions! 
 
-#### On this page you can find all my projects
+### On this page you can find all my projects
 
 - Skills: Python / Jupyter Notebook / SQL / JS / VBA
 - 🔭 I’m currently working on becoming a Data Analyst 
