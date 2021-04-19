@@ -2,7 +2,7 @@
 
 ## On this page you can find all my projects
 Passionate about the stories data can tell and how they can help us take better decisions! 
-- Skills: Python / Jupyter Notebook / SQL / JS / VBA
+- Skills: Python / Jupyter Notebook / SQL / JS / VBA / R
 - 🔭 I’m currently working on becoming a Data Analyst 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=react)
