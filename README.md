@@ -3,7 +3,7 @@
 ## On this page you can find all my projects
 Passionate about the stories data can tell and how they can help us take better decisions! 
 - Skills: Python / Jupyter Notebook / SQL / JS / VBA / R / Machine Learning
-- 🔭 I’m currently working on becoming a Data Analyst 
+- Business Analyst for Tethr! 📞
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=react)
 
