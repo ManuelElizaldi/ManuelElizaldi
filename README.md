@@ -1,9 +1,10 @@
 # Howdy y'all 👋, Welcome to Manuel Elizaldi's GitHub Profile!
+## Currently looking for a Business Analyst, Business Intelligence Analyst or Data Analyst role!
 
 ## On this page you can find all my projects
 Passionate about the stories data can tell and how they can help us take better decisions! 
 - Skills: Python / Jupyter Notebook / SQL / JS / VBA / R / Machine Learning
-- Business Analyst for Tethr! 📞
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=react)
 
