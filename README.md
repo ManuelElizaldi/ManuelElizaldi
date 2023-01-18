@@ -6,7 +6,7 @@ Passionate about the stories data can tell and how they can help us take better 
 - Skills: Python / Jupyter Notebook / SQL / JS / VBA / R / Machine Learning
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelElizaldi&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ManuelElizaldi/github-readme-stats)
 
