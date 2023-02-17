@@ -1,5 +1,6 @@
 # Howdy y'all 👋, Welcome to Manuel Elizaldi's GitHub Profile!
 ## Currently looking for a Business Analyst, Business Intelligence Analyst or Data Analyst role!
+## If you are interested in my work, go to the Repository section! Enjoy!
 
 ## On this page you can find all my projects
 Passionate about the stories data can tell and how they can help us take better decisions! 
