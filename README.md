@@ -1,4 +1,4 @@
-# Howdy y'all 👋, Welcome to Manuel Elizaldi's GitHub Profile!
+# Howdy y'all 👋, Welcome to my GitHub Profile!
 On this page you can find all my projects
 If you are interested in my work, go to the Repository section! Enjoy!
 Currently looking for a Business Analyst, Business Intelligence Analyst or Data Analyst role!
