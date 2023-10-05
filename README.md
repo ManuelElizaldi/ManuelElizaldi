@@ -7,6 +7,10 @@ Passionate about the stories data can tell and how they can help us take better 
 - Skills: Python / Jupyter Notebook / SQL / VBA / R / Machine Learning
 
 
+### Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelElizaldi&layout=compact&theme=darcula)](https://github.com/ManuelElizaldi/github-readme-stats)
