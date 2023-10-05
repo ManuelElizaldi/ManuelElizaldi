@@ -9,6 +9,8 @@ Passionate about the stories data can tell and how they can help us take better 
 
 ### Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
+- [Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics](https://www.goodreads.com/review/show/5880271288?utm_medium=api&utm_source=rss) by Tim  Marshall (⭐️4.19)
+- [Shoe Dog: A Memoir by the Creator of Nike](https://www.goodreads.com/review/show/5715629722?utm_medium=api&utm_source=rss) by Phil Knight (⭐️4.45)
 <!-- GOODREADS-LIST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
