@@ -6,6 +6,11 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 Passionate about the stories data can tell and how they can help us take better decisions! 
 - Skills: Python / Jupyter Notebook / SQL / VBA / R / Machine Learning
 
+158141204
+
+
+<h3 align="left">I am currently reading:</h3>
+<a href="<Your Profile URL>"><img src="https://goodreads-readme.vercel.app/api/book?id=<158141204>" alt="GoodReads reading" width="350" /></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
