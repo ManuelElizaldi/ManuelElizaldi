@@ -54,8 +54,11 @@ Passionate about the stories data can tell and how they can help us take better 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-
 ### Books I'm currently reading 📚
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
+
+### Last Books I read
 <!-- GOODREADS-LIST:START -->
 - [The Worm at the Core: On the Role of Death in Life](https://www.goodreads.com/review/show/5868825796?utm_medium=api&utm_source=rss) by Sheldon Solomon (⭐️4.14)
 - [Goodnight Punpun Omnibus, Vol. 3](https://www.goodreads.com/review/show/5849602424?utm_medium=api&utm_source=rss) by Inio Asano (⭐️4.42)
@@ -64,9 +67,7 @@ Passionate about the stories data can tell and how they can help us take better 
 - [Shiver: Selected Stories](https://www.goodreads.com/review/show/5742624859?utm_medium=api&utm_source=rss) by Junji Ito (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
 
-### Last Books I read
-<!-- GOODREADS-READ-LIST:START -->
-<!-- GOODREADS-READ-LIST:END -->
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
