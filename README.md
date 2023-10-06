@@ -30,6 +30,8 @@ airflow -> https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=
 kafka ->https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white
 apache spark ->https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16
 
+contact me -> https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 
 Follow my Blogs:
 
