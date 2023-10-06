@@ -3,7 +3,7 @@ On this page you can find all my projects
 If you are interested in my work, go to the Repository section! Enjoy!
 Currently looking for a Business Analyst, Business Intelligence Analyst or Data Analyst role!
 
-https://www.python.org/static/html/python-logo.png
+[https://www.python.org/static/html/python-logo.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
 
 
 Passionate about the stories data can tell and how they can help us take better decisions! 
