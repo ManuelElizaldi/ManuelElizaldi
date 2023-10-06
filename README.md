@@ -41,7 +41,7 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 [<img src='https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16' alt='apache spark ' height='29'>]()
 
 ### Contact:
-[<img src='https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16' alt='apache spark ' height='29'>]('manuelelizaldib@gmail.com)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail ' height='29'>]('manuelelizaldib@gmail.com)
 
 
 Follow my Blogs:
