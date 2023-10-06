@@ -6,10 +6,9 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 Passionate about the stories data can tell and how they can help us take better decisions! 
 - Skills: Python / Jupyter Notebook / SQL / VBA / R / Machine Learning
 
-### Last 5 Books I've Read 
-<!-- GOODREADS-READ-LIST:START -->
-<!-- GOODREADS-READ-LIST:END -->
-
+### Books I'm currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
