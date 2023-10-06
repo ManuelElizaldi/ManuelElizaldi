@@ -11,13 +11,17 @@ Languages
 [<img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' alt='sqlite' height='40'>]()
 [<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='mysql' height='40'>]()
 
-tools i like working with
+## Tools I Like Working With
+#### Dashboarding & Analytics
 [<img src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' alt='Tableau' height='40'>]()
 [<img src='https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white' alt='Google analytics' height='40'>]()
 
+#### Machine Learning & Modeling
 [<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white' alt='tensor flow' height='40'>]()
 [<img src='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='scikit learn' height='40'>]()
 
+#### Web Development
+[<img src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white' alt='flask' height='40'>]()
 [<img src='https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white' alt='streamlit' height='40'>]()
 [<img src='https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white' alt='render' height='40'>]()
 
