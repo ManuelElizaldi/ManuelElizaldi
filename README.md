@@ -12,32 +12,23 @@ Languages
 [<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='mysql' height='40'>]()
 
 tools i like working with
-[<img src='' alt='' height='40'>]
-[<img src='' alt='' height='40'>]
-Tableau -> https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
-Google analytics ->https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
+[<img src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' alt='Tableau' height='40'>]
+[<img src='https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white' alt='Google analytics' height='40'>]
 
-[<img src='' alt='' height='40'>]
-[<img src='' alt='' height='40'>]
-tensor flow -> https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white
-scikit learn -> https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+[<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white' alt='tensor flow' height='40'>]
+[<img src='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='scikit learn' height='40'>]
 
-[<img src='' alt='' height='40'>]
-[<img src='' alt='' height='40'>]
-streamlit - > https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white
-render -> https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white
+[<img src='https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white' alt='streamlit' height='40'>]
+[<img src='https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white' alt='render' height='40'>]
 
-[<img src='' alt='' height='40'>]
-[<img src='' alt='' height='40'>]
-[<img src='' alt='' height='40'>]
-mongodb -> https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-microsoft azure -> https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
-microsoft sql server -> https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 
-[<img src='' alt='' height='40'>]
-[<img src='' alt='' height='40'>]
-miro -> https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036
-trello -> https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
+[<img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='mongodb' height='40'>]
+[<img src='https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white' alt='microsoft azure' height='40'>]
+[<img src='https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white' alt='microsoft sql server' height='40'>]
+
+
+[<img src='https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036' alt='miro' height='40'>]
+[<img src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white' alt='trello' height='40'>]
 
 
 
