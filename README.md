@@ -29,6 +29,7 @@ tools i like working with
 
 [<img src='https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036' alt='miro' height='40'>]()
 [<img src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white' alt='trello' height='40'>]()
+[<img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white' alt='google cloud' height='40'>]()
 
 
 
