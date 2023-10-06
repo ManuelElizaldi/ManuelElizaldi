@@ -40,6 +40,11 @@ Follow my Blogs:
 Passionate about the stories data can tell and how they can help us take better decisions! 
 - Skills: Python / Jupyter Notebook / SQL / VBA / R / Machine Learning
 
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
@@ -47,6 +52,7 @@ Passionate about the stories data can tell and how they can help us take better 
 ### Last Books I read
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
