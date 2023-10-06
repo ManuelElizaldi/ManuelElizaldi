@@ -55,11 +55,9 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 
 #### pending -> 
 Follow my Blogs:
-
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='29'>](https://medium.com/@manuelelizaldi)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=manuelelizaldi)](https://medium.com/@omidnikrah)
 
-Passionate about the stories data can tell and how they can help us take better decisions! 
-- Skills: Python / Jupyter Notebook / SQL / VBA / R / Machine Learning
 
 
 ### Activity
