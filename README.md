@@ -11,13 +11,11 @@ Passionate about the stories data can tell and how they can help us take better 
 
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
-- [The Worm at the Core: On the Role of Death in Life](https://www.goodreads.com/review/show/5868825796?utm_medium=api&utm_source=rss) by Sheldon Solomon (⭐️4.14)
-- [Goodnight Punpun Omnibus, Vol. 3](https://www.goodreads.com/review/show/5849602424?utm_medium=api&utm_source=rss) by Inio Asano (⭐️4.42)
-- [Goodnight Punpun Omnibus, Vol. 2](https://www.goodreads.com/review/show/5820657988?utm_medium=api&utm_source=rss) by Inio Asano (⭐️4.35)
-- [Uzumaki](https://www.goodreads.com/review/show/5742625233?utm_medium=api&utm_source=rss) by Junji Ito (⭐️4.45)
-- [Shiver: Selected Stories](https://www.goodreads.com/review/show/5742624859?utm_medium=api&utm_source=rss) by Junji Ito (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
 
+### Last Books I read
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
