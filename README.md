@@ -41,6 +41,7 @@ Passionate about the stories data can tell and how they can help us take better 
 - Skills: Python / Jupyter Notebook / SQL / VBA / R / Machine Learning
 
 
+### Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
