@@ -4,8 +4,8 @@ If you are interested in my work, go to the Repository section! Enjoy!
 Currently looking for a Business Analyst, Business Intelligence Analyst or Data Analyst role!
 
 Languages
-[<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' alt='python' height='40'>](https://www.python.org/)
-[<img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white' alt='R' height='40'>](https://education.rstudio.com/)
+[<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' alt='python' height='40' width='50'>](https://www.python.org/)
+[<img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white' alt='R' height='40' width='50'>](https://education.rstudio.com/)
 
 [<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='postgresql' height='40'>]()
 [<img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' alt='sqlite' height='40'>]()
