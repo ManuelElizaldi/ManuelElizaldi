@@ -3,6 +3,9 @@ On this page you can find all my projects
 If you are interested in my work, go to the Repository section! Enjoy!
 Currently looking for a Business Analyst, Business Intelligence Analyst or Data Analyst role!
 
+Languages
+[<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' alt='python' height='40'>](https://www.python.org/)
+[<img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white' alt='R' height='40'>](https://education.rstudio.com/)
 
 Follow my Blogs:
 
