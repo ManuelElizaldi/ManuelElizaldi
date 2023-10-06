@@ -56,15 +56,18 @@ Passionate about the stories data can tell and how they can help us take better 
 
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
+- [Darth Plagueis (Star Wars)](https://www.goodreads.com/review/show/5891145132?utm_medium=api&utm_source=rss) by James Luceno (⭐️4.14)
+- [Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics](https://www.goodreads.com/review/show/5880271288?utm_medium=api&utm_source=rss) by Tim  Marshall (⭐️4.19)
+- [Shoe Dog: A Memoir by the Creator of Nike](https://www.goodreads.com/review/show/5715629722?utm_medium=api&utm_source=rss) by Phil Knight (⭐️4.45)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
-- [The Worm at the Core: On the Role of Death in Life](https://www.goodreads.com/review/show/5868825796?utm_medium=api&utm_source=rss) by Sheldon Solomon (⭐️4.14)
-- [Goodnight Punpun Omnibus, Vol. 3](https://www.goodreads.com/review/show/5849602424?utm_medium=api&utm_source=rss) by Inio Asano (⭐️4.42)
-- [Goodnight Punpun Omnibus, Vol. 2](https://www.goodreads.com/review/show/5820657988?utm_medium=api&utm_source=rss) by Inio Asano (⭐️4.35)
-- [Uzumaki](https://www.goodreads.com/review/show/5742625233?utm_medium=api&utm_source=rss) by Junji Ito (⭐️4.45)
-- [Shiver: Selected Stories](https://www.goodreads.com/review/show/5742624859?utm_medium=api&utm_source=rss) by Junji Ito (⭐️4.33)
+- [The Worm at the Core: On the Role of Death in Life](https://www.goodreads.com/review/show/5868825796?utm_medium=api&utm_source=rss) by Sheldon Solomon (⭐⭐⭐⭐)
+- [Goodnight Punpun Omnibus, Vol. 3](https://www.goodreads.com/review/show/5849602424?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐⭐)
+- [Goodnight Punpun Omnibus, Vol. 2](https://www.goodreads.com/review/show/5820657988?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐⭐)
+- [Uzumaki](https://www.goodreads.com/review/show/5742625233?utm_medium=api&utm_source=rss) by Junji Ito (⭐⭐⭐⭐)
+- [Shiver: Selected Stories](https://www.goodreads.com/review/show/5742624859?utm_medium=api&utm_source=rss) by Junji Ito (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 
