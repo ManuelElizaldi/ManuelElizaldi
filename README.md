@@ -69,8 +69,8 @@ Passionate about the stories data can tell and how they can help us take better 
 <!-- GOODREADS-LIST:END -->
 
 ### Last Books I read
-<!-- GOODREADS-LIST:START -->
-<!-- GOODREADS-LIST:END -->
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
