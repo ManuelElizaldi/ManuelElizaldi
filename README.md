@@ -7,9 +7,9 @@ Languages
 [<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' alt='python' height='40'>](https://www.python.org/)
 [<img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white' alt='R' height='40'>](https://education.rstudio.com/)
 
-[<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='postgresql' height='40'>]
-[<img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' alt='sqlite' height='40'>]
-[<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='mysql' height='40'>]
+[<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='postgresql' height='40'>]()
+[<img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' alt='sqlite' height='40'>]()
+[<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='mysql' height='40'>]()
 
 tools i like working with
 [<img src='' alt='' height='40'>]
