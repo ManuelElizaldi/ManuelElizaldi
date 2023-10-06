@@ -11,7 +11,7 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 [<img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' alt='sqlite' height='29'>]()
 [<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='mysql' height='29'>]()
 
-## Tools I Like Working With
+## Tools I Like Building With
 #### Dashboarding & Analytics
 [<img src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' alt='Tableau' height='29'>]()
 [<img src='https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white' alt='Google analytics' height='29'>]()
@@ -25,25 +25,23 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 [<img src='https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white' alt='streamlit' height='29'>]()
 [<img src='https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white' alt='render' height='29'>]()
 
-
+### Databases
 [<img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='mongodb' height='29'>]()
 [<img src='https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white' alt='microsoft azure' height='29'>]()
 [<img src='https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white' alt='microsoft sql server' height='29'>]()
 
-
+### Productivity
 [<img src='https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036' alt='miro' height='29'>]()
 [<img src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white' alt='trello' height='29'>]()
 [<img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white' alt='google cloud' height='29'>]()
 
+### thins i want to learn 
+[<img src='https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white' alt='airflow' height='29'>]()
+[<img src='https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white' alt='kafka' height='29'>]()
+[<img src='https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16' alt='apache spark ' height='29'>]()
 
-
-
-thins i want to learn 
-airflow -> https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white
-kafka ->https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white
-apache spark ->https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16
-
-contact me -> https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+### Contact:
+[<img src='https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16' alt='apache spark ' height='29'>]('manuelelizaldib@gmail.com)
 
 
 Follow my Blogs:
