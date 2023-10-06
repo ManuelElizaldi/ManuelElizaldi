@@ -35,12 +35,12 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 [<img src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white' alt='trello' height='29'>]()
 [<img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white' alt='google cloud' height='29'>]()
 
-### thins i want to learn 
+### Tools I want to learn 
 [<img src='https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white' alt='airflow' height='29'>]()
 [<img src='https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white' alt='kafka' height='29'>]()
 [<img src='https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16' alt='apache spark ' height='29'>]()
 
-### Contact:
+### Contact
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail ' height='29'>]('manuelelizaldib@gmail.com)
 
 
