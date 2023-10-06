@@ -7,6 +7,30 @@ Languages
 [<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' alt='python' height='40'>](https://www.python.org/)
 [<img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white' alt='R' height='40'>](https://education.rstudio.com/)
 
+tools i like working with
+streamlit - > https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white
+tensor flow -> https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white
+scikit learn -> https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+miro -> https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036
+trello -> https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
+mongodb -> https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+mysql -> https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+postgresql -> https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+sqlite ->	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+microsoft sql server -> https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+microsoft azure -> https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
+render -> https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white
+Tableau -> https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+Google analytics ->https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
+
+
+
+thins i want to learn 
+airflow -> https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white
+kafka ->https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white
+apache spark ->https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16
+
+
 Follow my Blogs:
 
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='40'>](https://medium.com/@manuelelizaldi)
