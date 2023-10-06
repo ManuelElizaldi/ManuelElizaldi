@@ -6,11 +6,6 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 Passionate about the stories data can tell and how they can help us take better decisions! 
 - Skills: Python / Jupyter Notebook / SQL / VBA / R / Machine Learning
 
-
-### Books I'm currently reading
-<!-- GOODREADS-LIST:START -->
-<!-- GOODREADS-LIST:END -->
-
 ### Last 5 Books I've Read 
 <!-- GOODREADS-READ-LIST:START -->
 <!-- GOODREADS-READ-LIST:END -->
