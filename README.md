@@ -61,11 +61,8 @@ Follow my Blogs:
 </p>
 
 
-
-[<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='29'>](https://medium.com/@manuelelizaldi)
+# test
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=manuelelizaldi)](https://medium.com/@omidnikrah)
-
-
 
 ### Activity
 <!--START_SECTION:activity-->
