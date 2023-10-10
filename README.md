@@ -56,7 +56,7 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 Follow my Blogs:
 <p>
   <a href="https://medium.com/@manuelelizaldi">
-    </img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='29'>
+    <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='29'>
   </a>
 </p>
 
