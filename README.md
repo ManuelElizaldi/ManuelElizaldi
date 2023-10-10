@@ -56,13 +56,14 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 Follow my Blogs:
 <p>
   <a href="https://medium.com/@manuelelizaldi">
+    <img src='https://github-readme-medium.vercel.app/?username=manuelelizaldi'>
     <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='29'>
   </a>
 </p>
 
 
 # test
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=manuelelizaldi)](https://medium.com/@omidnikrah)
+[![Omid Nikrah Medium]()](https://medium.com/@omidnikrah)
 
 ### Activity
 <!--START_SECTION:activity-->
