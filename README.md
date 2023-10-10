@@ -28,8 +28,14 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 
 ## Tools I Like Building With
 #### Dashboarding & Analytics
-[<img src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white' alt='Tableau' height='29'>]()
-[<img src='https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white' alt='Google analytics' height='29'>]()
+<p align="center">
+  <a href="www.google.com">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt='Tableau' height='29' />
+    <img src='https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white' alt='Google analytics' height='29 />
+  </a>
+</p>
+
+['>]()
 
 #### Machine Learning & Modeling
 [<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white' alt='tensor flow' height='29'>]()
