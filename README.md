@@ -52,17 +52,13 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 [<img src='https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16' alt='apache spark ' height='29'>]()
 
 
-#### pending -> 
-Follow my Blogs:
+#### Latest Blog Post:
+##### Follow me on medium! 
 <p>
   <a href="https://medium.com/@manuelelizaldi">
     <img src='https://github-readme-medium.vercel.app/?username=manuelelizaldi'>
   </a>
 </p>
-
-
-# test
-[![Omid Nikrah Medium]()](https://medium.com/@omidnikrah)
 
 ### Activity
 <!--START_SECTION:activity-->
