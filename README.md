@@ -51,6 +51,9 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 [<img src='https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white' alt='kafka' height='29'>]()
 [<img src='https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16' alt='apache spark ' height='29'>]()
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelElizaldi&layout=compact&theme=darcula)](https://github.com/ManuelElizaldi/github-readme-stats)
 
 #### Latest Blog Post:
 ##### Follow me on medium! 
@@ -59,10 +62,6 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
     <img src='https://github-readme-medium.vercel.app/?username=manuelelizaldi'>
   </a>
 </p>
-
-### Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
@@ -79,10 +78,3 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 - [Uzumaki](https://www.goodreads.com/review/show/5742625233?utm_medium=api&utm_source=rss) by Junji Ito (⭐⭐⭐⭐)
 - [Shiver: Selected Stories](https://www.goodreads.com/review/show/5742624859?utm_medium=api&utm_source=rss) by Junji Ito (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelElizaldi&layout=compact&theme=darcula)](https://github.com/ManuelElizaldi/github-readme-stats)
