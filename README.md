@@ -16,7 +16,7 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 
 
 ## Languages
-<p align="left">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,mysql,sqlite" />
   </a>
