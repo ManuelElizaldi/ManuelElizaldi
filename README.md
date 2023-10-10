@@ -22,13 +22,6 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
   </a>
 </p>
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt='mysql' height='29' />
-    <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='postgresql' height='29'/>
-  </a>
-</p>
-
 ## Tools I Like Building With
 #### Dashboarding & Analytics
 <p>
