@@ -16,8 +16,11 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 
 
 ## Languages
-[<img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' alt='python' height='29'>](https://www.python.org/)
-[<img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white' alt='R' height='29'>](https://education.rstudio.com/)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql, sqlite, git" />
+  </a>
+</p>
 
 [<img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' alt='postgresql' height='29'>]()
 [<img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' alt='sqlite' height='29'>]()
