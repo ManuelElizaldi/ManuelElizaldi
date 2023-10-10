@@ -11,10 +11,6 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/manuelizaldi/)
 
-
-
-
-
 ## Languages
 <p>
   <a href="https://skillicons.dev">
@@ -30,8 +26,6 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
     <img src='https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white' alt='Google analytics' height='29 />
   </a>
 </p>
-
-['>]()
 
 #### Machine Learning & Modeling
 [<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white' alt='tensor flow' height='29'>]()
@@ -60,6 +54,14 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 
 #### pending -> 
 Follow my Blogs:
+<p>
+  <a href="https://medium.com/@manuelelizaldi">
+    </img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='29'>
+  </a>
+</p>
+
+
+
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='29'>](https://medium.com/@manuelelizaldi)
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=manuelelizaldi)](https://medium.com/@omidnikrah)
 
