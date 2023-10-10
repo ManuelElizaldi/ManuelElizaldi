@@ -57,7 +57,6 @@ Follow my Blogs:
 <p>
   <a href="https://medium.com/@manuelelizaldi">
     <img src='https://github-readme-medium.vercel.app/?username=manuelelizaldi'>
-    <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='29'>
   </a>
 </p>
 
