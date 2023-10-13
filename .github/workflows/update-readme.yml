@@ -1,17 +1,18 @@
-name: Update README
+# Workflow to update my recent GitHub activity in public repos
 
+name: github-activity
 on:
-  schedule:
-    - cron: '*/30 * * * *' # Update every 30 minutes
   workflow_dispatch:
-
+  schedule:
+    - cron: '0 2 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update Profile README
-
+    name: Update README with my most recent GitHub activity in public repos
     steps:
-      - uses: actions/checkout@v2.3.4
-      - uses: Readme-Workflows/recent-activity@1.3.1
+      - uses: actions/checkout@v2
+      - uses: Readme-Workflows/recent-activity@v2.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          CONFIG_FILE: "workflow_settings.yml"
