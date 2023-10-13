@@ -17,7 +17,7 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
 
 ## Languages
 <p>
