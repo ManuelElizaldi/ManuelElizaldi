@@ -17,6 +17,9 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
+1. 🔱 Forked [ManuelElizaldi/CatherineOsadciw](https://github.com/ManuelElizaldi/CatherineOsadciw) from [CatherineOsadciw/CatherineOsadciw](https://github.com/CatherineOsadciw/CatherineOsadciw)
+2. ⭐ Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+3. 🔱 Forked [ManuelElizaldi/codeSTACKr](https://github.com/ManuelElizaldi/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 <!--RECENT_ACTIVITY:end-->
 
 ## Languages
