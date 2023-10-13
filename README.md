@@ -16,8 +16,8 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelElizaldi&layout=compact&theme=darcula)](https://github.com/ManuelElizaldi/github-readme-stats)
 
 ### :zap: Recent Activity
-<!--START_SECTION:activity-->
-
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ## Languages
 <p>
