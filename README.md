@@ -68,10 +68,11 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
     <img src='https://github-readme-medium.vercel.app/?username=manuelelizaldi'>
   </a>
 </p>
-
+manuelelizaldi
 ### Coding to
-[![Spotify](novatorem-zeta-ten.vercel.app/api/spotify)](https://open.spotify.com/user/1283184401)
-
+&nbsp;<div align="center">
+  [![Spotify](https://manuelelizaldi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
