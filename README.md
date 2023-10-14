@@ -72,6 +72,10 @@ manuelelizaldi
 ### Coding to
 [![Spotify](https://manuelelizaldi.vercel.app/api/spotify)](https://open.spotify.com/user/1283184401)
 
+[![Spotify](https://novatorem-manuel-elizaldis-projects.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
+https://novatorem-manuel-elizaldis-projects.vercel.app/
+
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Darth Plagueis (Star Wars)](https://www.goodreads.com/review/show/5891145132?utm_medium=api&utm_source=rss) by James Luceno (unrated)
