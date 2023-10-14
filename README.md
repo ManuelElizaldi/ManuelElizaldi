@@ -71,6 +71,13 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 
 ### Coding to 🎧 🎵
 
+<p align="center">
+  <a href="https://open.spotify.com/user/1283184401">
+    <img src="https://novatorem-manuel-elizaldis-projects.vercel.app/api/spotify" alt="Spotify">
+  </a>
+</p>
+
+
 [![Spotify](https://novatorem-manuel-elizaldis-projects.vercel.app/api/spotify)](https://open.spotify.com/user/1283184401)
 
 
