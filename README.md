@@ -69,6 +69,10 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
   </a>
 </p>
 
+### Coding to
+[![Spotify](novatorem-zeta-ten.vercel.app/api/spotify)](https://open.spotify.com/user/1283184401)
+
+
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Darth Plagueis (Star Wars)](https://www.goodreads.com/review/show/5891145132?utm_medium=api&utm_source=rss) by James Luceno (unrated)
