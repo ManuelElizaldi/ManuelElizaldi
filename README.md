@@ -71,7 +71,7 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
 manuelelizaldi
 ### Coding to
 &nbsp;<div align="center">
-  [![Spotify](https://manuelelizaldi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://manuelelizaldi.vercel.app/api/spotify)](https://open.spotify.com/user/1283184401)
 </div>
 
 ### Books I'm currently reading 📚
