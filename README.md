@@ -68,10 +68,8 @@ Currently looking for a Business Analyst, Business Intelligence Analyst or Data 
     <img src='https://github-readme-medium.vercel.app/?username=manuelelizaldi'>
   </a>
 </p>
-manuelelizaldi
+
 ### Coding to 🎧 🎵
-
-
 https://novatorem-manuel-elizaldis-projects.vercel.app/
 
 ### Books I'm currently reading 📚
