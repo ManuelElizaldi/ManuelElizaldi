@@ -18,7 +18,7 @@ I am always open to meeting liked minded people and to collaborate!
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/manuelizaldi/)
 
 
-<div style="text-align: center;">
+<div align= "center">
     <a href="https://manuelelizaldi.github.io/">
         <img src="./img/globe-dark.svg" alt="website" style="width: 50px; height: 50px;" />
     </a>
