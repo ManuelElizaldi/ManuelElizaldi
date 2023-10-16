@@ -23,11 +23,11 @@ I am always open to meeting liked minded people and to collaborate!
 
 
 <a href="https://github.com/ManuelElizaldi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula" alt="Anurag's GitHub stats" style="width: 50%; height: 150px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula" alt="Anurag's GitHub stats" style="width: 55%; height: 165px;" />
 </a>
 
 <a href="https://github.com/ManuelElizaldi">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelElizaldi&layout=compact&theme=darcula" alt="Top Langs" style="max-width: 50%; height: 150px;" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelElizaldi&layout=compact&theme=darcula" alt="Top Langs" style="max-width: 55%; height: 165px;" />
 </a>
 
 
