@@ -21,6 +21,15 @@ I am always open to meeting liked minded people and to collaborate!
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelElizaldi&layout=compact&theme=darcula)](https://github.com/ManuelElizaldi/github-readme-stats)
 
+
+<a href="https://github.com/ManuelElizaldi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula" alt="Anurag's GitHub stats" style="width: 50%" />
+</a>
+
+<a href="https://github.com/ManuelElizaldi">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelElizaldi&layout=compact&theme=darcula" alt="Top Langs" style="max-width: 50%" />
+</a>
+
 ### Recent GitHub Activity :zap:
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [ManuelElizaldi/novatorem](https://github.com/ManuelElizaldi/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
