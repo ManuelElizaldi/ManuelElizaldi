@@ -11,13 +11,6 @@ Howdy! I am Manuel a data analyst with a background in economics and a passion f
 ## Get in Touch 📫
 I am always open to meeting liked minded people and to collaborate! 
 
-[![website](./img/globe-dark.svg)](https://manuelelizaldi.github.io/)
-&nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/manuelelizaldi/)
-&nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/manuelizaldi/)
-
-
 <div align= "center">
     <a href="https://manuelelizaldi.github.io/">
         <img src="./img/globe-dark.svg" alt="website" style="width: 35px; height: 35px;" />
