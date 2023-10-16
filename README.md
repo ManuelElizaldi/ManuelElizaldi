@@ -1,13 +1,12 @@
 # Howdy y'all 👋, Welcome to my GitHub Profile!
-I am a data analyst with 4 years of experience providing machine learning solutions and data ETLs. I am passionate about how we can use data and code to make our life's more enjoyable. Some of my personal interests include:
+Howdy! I am Manuel a data analyst with a background in economics and a passion for using data and code to make our life's more enjoyable. I believe data offers inmense potential to dirve positive change.
 
 ## My Interests 🔭
-- Economics
-- Sports: Football, rugby, running
-- Working out
+- Economics: I am fascinated by behavioral economics, analysing why certain decisions are made and their consequences in the market. 
+- Sports: Ethusiast of rugby 🏉, football ⚽ and working out. I have used data to analyse my workouts and plan to build a project related to rugby or football. 
 - Art
 - Writing
-- AI 
+- AI: I believe AI is the future. This tool will determine the next decades of humanity. We need to embrace this tool! 🤖
  
 ### Get in Touch 📫
 [![website](./img/globe-dark.svg)](https://manuelelizaldi.github.io/)
