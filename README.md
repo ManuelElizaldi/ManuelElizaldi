@@ -1,10 +1,12 @@
 # Howdy y'all 👋, Welcome to my GitHub Profile!
-On this page you can find all my projects
-If you are interested in my work, go to the Repository section! Enjoy!
-Currently looking for a Business Analyst, Business Intelligence Analyst or Data Analyst role!
-
-### Connect with me:
-
+I am a data analyst with 4 years of experience providing machine learning solutions and data ETLs. I am passionate about how we can use data and code to make our life's more enjoyable. Some of my personal interests include:
+- Economics
+- Sports: Football, rugby, running
+- Working out
+- Art
+- AI 
+ 
+### Connect with me 🌐
 [![website](./img/globe-dark.svg)](https://manuelelizaldi.github.io/)
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/manuelelizaldi/)
