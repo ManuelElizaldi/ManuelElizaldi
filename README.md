@@ -17,11 +17,6 @@ I am always open to meeting liked minded people and to collaborate!
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/manuelizaldi/)
 
 ### GitHub Stats 📈
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelElizaldi&layout=compact&theme=darcula)](https://github.com/ManuelElizaldi/github-readme-stats)
-
-
 <a href="https://github.com/ManuelElizaldi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula" alt="Anurag's GitHub stats" style="width: 55%; height: 165px;" />
 </a>
