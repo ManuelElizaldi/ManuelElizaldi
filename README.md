@@ -20,15 +20,15 @@ I am always open to meeting liked minded people and to collaborate!
 
 <div align= "center">
     <a href="https://manuelelizaldi.github.io/">
-        <img src="./img/globe-dark.svg" alt="website" style="width: 50px; height: 50px;" />
+        <img src="./img/globe-dark.svg" alt="website" style="width: 30px; height: 30px;" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/manuelelizaldi/">
-        <img src="./img/linkedin-dark.svg" alt="website" style="width: 50px; height: 50px;" />
+        <img src="./img/linkedin-dark.svg" alt="website" style="width: 30px; height: 30px;" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.instagram.com/manuelizaldi/">
-        <img src="./img/instagram-dark.svg" alt="website" style="width: 50px; height: 50px;" />
+        <img src="./img/instagram-dark.svg" alt="website" style="width: 30px; height: 30px;" />
     </a>
 </div>
 
