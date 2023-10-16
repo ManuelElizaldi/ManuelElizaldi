@@ -17,6 +17,22 @@ I am always open to meeting liked minded people and to collaborate!
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/manuelizaldi/)
 
+
+<div style="text-align: center;">
+    <a href="https://manuelelizaldi.github.io/">
+        <img src="./img/globe-dark.svg" alt="website" style="width: 50px; height: 50px;" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/manuelelizaldi/">
+        <img src="./img/linkedin-dark.svg" alt="website" style="width: 50px; height: 50px;" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/manuelizaldi/">
+        <img src="./img/instagram-dark.svg" alt="website" style="width: 50px; height: 50px;" />
+    </a>
+</div>
+
+
 ## GitHub Stats 📈
 <a href="https://github.com/ManuelElizaldi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula" alt="Anurag's GitHub stats" style="width: 55%; height: 165px;" />
