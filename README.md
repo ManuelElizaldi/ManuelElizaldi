@@ -8,7 +8,7 @@ Howdy! I am Manuel a data analyst with a background in economics and a passion f
 - AI: I believe AI is the future. This tool will determine the next decades of humanity. We need to embrace this tool! 🤖
 - Writing: Recently started writing more about my experiences in the data/coding world. You can read more on my [Linkedin](https://www.linkedin.com/in/manuelelizaldi/) and [Medium](https://medium.com/@manuelelizaldi)
  
-### Get in Touch 📫
+## Get in Touch 📫
 I am always open to meeting liked minded people and to collaborate! 
 [![website](./img/globe-dark.svg)](https://manuelelizaldi.github.io/)
 &nbsp;&nbsp;
@@ -16,7 +16,7 @@ I am always open to meeting liked minded people and to collaborate!
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/manuelizaldi/)
 
-### GitHub Stats 📈
+## GitHub Stats 📈
 <a href="https://github.com/ManuelElizaldi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManuelElizaldi&show_icons=true&theme=darcula" alt="Anurag's GitHub stats" style="width: 55%; height: 165px;" />
 </a>
@@ -24,14 +24,6 @@ I am always open to meeting liked minded people and to collaborate!
 <a href="https://github.com/ManuelElizaldi">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelElizaldi&layout=compact&theme=darcula" alt="Top Langs" style="max-width: 55%; height: 165px;" />
 </a>
-
-
-### Recent GitHub Activity :zap:
-<!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [ManuelElizaldi/novatorem](https://github.com/ManuelElizaldi/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
-2. 🔱 Forked [ManuelElizaldi/CatherineOsadciw](https://github.com/ManuelElizaldi/CatherineOsadciw) from [CatherineOsadciw/CatherineOsadciw](https://github.com/CatherineOsadciw/CatherineOsadciw)
-3. ⭐ Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
-<!--RECENT_ACTIVITY:end-->
 
 ## Languages
 <p>
@@ -41,7 +33,7 @@ I am always open to meeting liked minded people and to collaborate!
 </p>
 
 ## Tools I Like Building With
-#### Dashboarding & Analytics
+### Dashboarding & Analytics
 <p>
   <a href="www.google.com">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt='Tableau' height='29' />
@@ -49,11 +41,11 @@ I am always open to meeting liked minded people and to collaborate!
   </a>
 </p>
 
-#### Machine Learning & Modeling
+### Machine Learning & Modeling
 [<img src='https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white' alt='tensor flow' height='29'>]()
 [<img src='https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white' alt='scikit learn' height='29'>]()
 
-#### Web Development
+### Web Development
 [<img src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white' alt='flask' height='29'>]()
 [<img src='https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white' alt='streamlit' height='29'>]()
 [<img src='https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white' alt='render' height='29'>]()
@@ -73,14 +65,21 @@ I am always open to meeting liked minded people and to collaborate!
 [<img src='https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white' alt='kafka' height='29'>]()
 [<img src='https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16' alt='apache spark ' height='29'>]()
 
-#### Latest Blog Post:
+### Recent GitHub Activity :zap:
+<!--RECENT_ACTIVITY:start-->
+1. 🔱 Forked [ManuelElizaldi/novatorem](https://github.com/ManuelElizaldi/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
+2. 🔱 Forked [ManuelElizaldi/CatherineOsadciw](https://github.com/ManuelElizaldi/CatherineOsadciw) from [CatherineOsadciw/CatherineOsadciw](https://github.com/CatherineOsadciw/CatherineOsadciw)
+3. ⭐ Starred [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+<!--RECENT_ACTIVITY:end-->
+
+### Latest Blog Post 📰:
 <p>
   <a href="https://medium.com/@manuelelizaldi">
     <img src='https://github-readme-medium.vercel.app/?username=manuelelizaldi'>
   </a>
 </p>
 
-### Coding to 🎧 🎵
+### Currently Coding to 🎧 🎵
 
 <p align="left">
   <a href="https://open.spotify.com/user/1283184401">
