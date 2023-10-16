@@ -1,12 +1,15 @@
 # Howdy y'all 👋, Welcome to my GitHub Profile!
 I am a data analyst with 4 years of experience providing machine learning solutions and data ETLs. I am passionate about how we can use data and code to make our life's more enjoyable. Some of my personal interests include:
+
+## My Interests 🔭
 - Economics
 - Sports: Football, rugby, running
 - Working out
 - Art
+- Writing
 - AI 
  
-### Connect with me 🌐
+### Get in Touch 📫
 [![website](./img/globe-dark.svg)](https://manuelelizaldi.github.io/)
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/manuelelizaldi/)
@@ -17,7 +20,7 @@ I am a data analyst with 4 years of experience providing machine learning soluti
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManuelElizaldi&layout=compact&theme=darcula)](https://github.com/ManuelElizaldi/github-readme-stats)
 
-### :zap: Recent Activity
+### Recent GitHub Activity :zap:
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [ManuelElizaldi/novatorem](https://github.com/ManuelElizaldi/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
 2. 🔱 Forked [ManuelElizaldi/CatherineOsadciw](https://github.com/ManuelElizaldi/CatherineOsadciw) from [CatherineOsadciw/CatherineOsadciw](https://github.com/CatherineOsadciw/CatherineOsadciw)
