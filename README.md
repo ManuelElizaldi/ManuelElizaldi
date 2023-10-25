@@ -1,5 +1,5 @@
 # Howdy y'all 👋, Welcome to my GitHub Profile!
-Howdy! I am Manuel a data analyst with a background in economics and a passion for using data and code to make our life's more enjoyable. I believe data offers inmense potential to dirve positive change.
+Howdy! I am Manuel a data analyst with a background in economics and a passion for using data and code to make our life's more enjoyable. I believe data offers inmense potential to dirve positive change!
 
 ## My Interests 🔭
 - Economics: I am fascinated by behavioral economics, analysing why certain decisions are made and their consequences in the market. 
