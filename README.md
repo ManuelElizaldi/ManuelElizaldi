@@ -77,9 +77,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Recent GitHub Activity :zap:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [ManuelElizaldi/RugbyProject](https://github.com/ManuelElizaldi/RugbyProject)
-2. 🔱 Forked [ManuelElizaldi/novatorem](https://github.com/ManuelElizaldi/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
-3. 🔱 Forked [ManuelElizaldi/CatherineOsadciw](https://github.com/ManuelElizaldi/CatherineOsadciw) from [CatherineOsadciw/CatherineOsadciw](https://github.com/CatherineOsadciw/CatherineOsadciw)
+1. 📔 Created new repository [ManuelElizaldi/DataEngCourseProject](https://github.com/ManuelElizaldi/DataEngCourseProject)
+2. 📔 Created new repository [ManuelElizaldi/RugbyProject](https://github.com/ManuelElizaldi/RugbyProject)
+3. 🔱 Forked [ManuelElizaldi/novatorem](https://github.com/ManuelElizaldi/novatorem) from [novatorem/novatorem](https://github.com/novatorem/novatorem)
 <!--RECENT_ACTIVITY:end-->
 
 ### Latest Blog Post 📰:
