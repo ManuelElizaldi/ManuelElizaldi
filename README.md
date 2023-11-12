@@ -77,9 +77,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Recent GitHub Activity :zap:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
-2. 📔 Created new repository [ManuelElizaldi/DataEngCourseProject](https://github.com/ManuelElizaldi/DataEngCourseProject)
-3. 📔 Created new repository [ManuelElizaldi/RugbyProject](https://github.com/ManuelElizaldi/RugbyProject)
+1. 📔 Created new repository [ManuelElizaldi/ShopifyPlayGround](https://github.com/ManuelElizaldi/ShopifyPlayGround)
+2. ⭐ Starred [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+3. 📔 Created new repository [ManuelElizaldi/DataEngCourseProject](https://github.com/ManuelElizaldi/DataEngCourseProject)
 <!--RECENT_ACTIVITY:end-->
 
 ### Latest Blog Post 📰:
