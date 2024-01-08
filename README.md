@@ -3,7 +3,8 @@ Howdy! I am Manuel a data analyst with a background in economics and a passion f
 
 ## My Interests 🔭
 - Economics: I am fascinated by behavioral economics, analysing why certain decisions are made and their consequences in the market. 
-- Sports: Ethusiast of rugby 🏉, football ⚽, running 🏃 and weight lifting. I have used data to analyse my workouts and plan to build a project related to rugby and football. 
+- Sports: Ethusiast of rugby 🏉, football ⚽, running 🏃 and weight lifting. I have used data to analyse my workouts and plan to build a project related to rugby and football.
+    - I built [PyStrava](https://github.com/ManuelElizaldi/pyStrava) to analyze my workout data and optmize my training.  
 - Art: Appreciating the beauty and creativity in various forms of art, from traditional to digital expressions and even AI generated. 🖼️
 - AI: I believe AI is the future. This tool will determine the next decades of humanity. We need to embrace it! 🤖
 - Writing: Recently started writing more about my experiences in the data/coding world. You can read more on my [Linkedin](https://www.linkedin.com/in/manuelelizaldi/) and [Medium](https://medium.com/@manuelelizaldi)
