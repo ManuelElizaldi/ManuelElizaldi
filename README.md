@@ -82,9 +82,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Recent GitHub Activity :zap:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [adam-p/markdown-here](https://github.com/adam-p/markdown-here)
-2. 📔 Created new repository [ManuelElizaldi/ShopifyPlayGround](https://github.com/ManuelElizaldi/ShopifyPlayGround)
-3. ⭐ Starred [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+1. 📔 Created new repository [ManuelElizaldi/TwitterAPIPlayground](https://github.com/ManuelElizaldi/TwitterAPIPlayground)
+2. ⭐ Starred [adam-p/markdown-here](https://github.com/adam-p/markdown-here)
+3. 📔 Created new repository [ManuelElizaldi/ShopifyPlayGround](https://github.com/ManuelElizaldi/ShopifyPlayGround)
 <!--RECENT_ACTIVITY:end-->
 
 ### Latest Blog Post 📰:
