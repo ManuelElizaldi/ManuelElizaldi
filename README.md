@@ -82,7 +82,7 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Recent GitHub Activity :zap:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [ManuelElizaldi/Budget-Analysis](https://github.com/ManuelElizaldi/Budget-Analysis)
+1. ⭐ Starred [ManuelElizaldi/PyStrava](https://github.com/ManuelElizaldi/PyStrava)
 2. 📔 Created new repository [ManuelElizaldi/TwitterAPIPlayground](https://github.com/ManuelElizaldi/TwitterAPIPlayground)
 3. ⭐ Starred [adam-p/markdown-here](https://github.com/adam-p/markdown-here)
 <!--RECENT_ACTIVITY:end-->
