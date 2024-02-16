@@ -82,8 +82,8 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Recent GitHub Activity :zap:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ManuelElizaldi/PyStrava](https://github.com/ManuelElizaldi/PyStrava)
-2. 📔 Created new repository [ManuelElizaldi/TwitterAPIPlayground](https://github.com/ManuelElizaldi/TwitterAPIPlayground)
+1. ⭐ Starred [whitphx/stlite](https://github.com/whitphx/stlite)
+2. ⭐ Starred [ManuelElizaldi/PyStrava](https://github.com/ManuelElizaldi/PyStrava)
 3. ⭐ Starred [adam-p/markdown-here](https://github.com/adam-p/markdown-here)
 <!--RECENT_ACTIVITY:end-->
 
