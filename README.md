@@ -112,9 +112,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [The Artist's Way: A Spiritual Path to Higher Creativity](https://www.goodreads.com/review/show/6265511422?utm_medium=api&utm_source=rss) by Julia Cameron (⭐⭐⭐⭐⭐)
 - [Alphabet Squadron (Star Wars: Alphabet Squadron, #1)](https://www.goodreads.com/review/show/6255444194?utm_medium=api&utm_source=rss) by Alexander Freed (⭐⭐⭐⭐)
 - [The Worm at the Core: On the Role of Death in Life](https://www.goodreads.com/review/show/5868825796?utm_medium=api&utm_source=rss) by Sheldon Solomon (⭐⭐⭐⭐)
 - [Goodnight Punpun Omnibus, Vol. 3](https://www.goodreads.com/review/show/5849602424?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐⭐)
 - [Goodnight Punpun Omnibus, Vol. 2](https://www.goodreads.com/review/show/5820657988?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐⭐)
-- [Uzumaki](https://www.goodreads.com/review/show/5742625233?utm_medium=api&utm_source=rss) by Junji Ito (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
