@@ -105,8 +105,7 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Darth Plagueis (Star Wars)](https://www.goodreads.com/review/show/5891145132?utm_medium=api&utm_source=rss) by James Luceno (unrated)
-- [Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics](https://www.goodreads.com/review/show/5880271288?utm_medium=api&utm_source=rss) by Tim  Marshall (unrated)
+- [Fahrenheit 451](https://www.goodreads.com/review/show/5094824919?utm_medium=api&utm_source=rss) by Ray Bradbury (unrated)
 - [Shoe Dog: A Memoir by the Creator of Nike](https://www.goodreads.com/review/show/5715629722?utm_medium=api&utm_source=rss) by Phil Knight (unrated)
 <!-- GOODREADS-LIST:END -->
 
