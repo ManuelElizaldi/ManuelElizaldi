@@ -82,9 +82,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Recent GitHub Activity :zap:
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lukebarousse/Data_Job_Pipeline_Airflow](https://github.com/lukebarousse/Data_Job_Pipeline_Airflow)
-2. ⭐ Starred [whitphx/stlite](https://github.com/whitphx/stlite)
-3. ⭐ Starred [ManuelElizaldi/PyStrava](https://github.com/ManuelElizaldi/PyStrava)
+1. ⭐ Starred [meta4/mplcal](https://github.com/meta4/mplcal)
+2. ⭐ Starred [lukebarousse/Data_Job_Pipeline_Airflow](https://github.com/lukebarousse/Data_Job_Pipeline_Airflow)
+3. ⭐ Starred [whitphx/stlite](https://github.com/whitphx/stlite)
 <!--RECENT_ACTIVITY:end-->
 
 ### Latest Blog Post 📰:
