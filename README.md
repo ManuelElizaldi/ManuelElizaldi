@@ -105,7 +105,6 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Fahrenheit 451](https://www.goodreads.com/review/show/5094824919?utm_medium=api&utm_source=rss) by Ray Bradbury (unrated)
 - [Shoe Dog: A Memoir by the Creator of Nike](https://www.goodreads.com/review/show/5715629722?utm_medium=api&utm_source=rss) by Phil Knight (unrated)
 <!-- GOODREADS-LIST:END -->
 
