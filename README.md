@@ -30,7 +30,7 @@ I am always open to meeting liked minded people and to collaborate!
     </a>
 </div>
 
-## Currently Working on:
+## Currently Working on 🚀:
 - Building [PyStrava V2](https://github.com/ManuelElizaldi/pyStrava), now showcasing stats through a web app and coding an automated ETL pipeline.  
 - Working on mastering the fundamentals of CS with [Harvard's CS 50 course](https://pll.harvard.edu/course/cs50-introduction-computer-science). 
 
