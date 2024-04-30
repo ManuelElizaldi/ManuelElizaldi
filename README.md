@@ -85,9 +85,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Recent GitHub Activity :zap:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [ManuelElizaldi/CS50](https://github.com/ManuelElizaldi/CS50)
-2. ⭐ Starred [meta4/mplcal](https://github.com/meta4/mplcal)
-3. ⭐ Starred [lukebarousse/Data_Job_Pipeline_Airflow](https://github.com/lukebarousse/Data_Job_Pipeline_Airflow)
+1. ⭐ Starred [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
+2. 📔 Created new repository [ManuelElizaldi/CS50](https://github.com/ManuelElizaldi/CS50)
+3. ⭐ Starred [meta4/mplcal](https://github.com/meta4/mplcal)
 <!--RECENT_ACTIVITY:end-->
 
 ### Latest Blog Post 📰:
