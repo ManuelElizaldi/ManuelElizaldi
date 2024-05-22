@@ -113,9 +113,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)](https://www.goodreads.com/review/show/6525053827?utm_medium=api&utm_source=rss) by Douglas Adams (⭐⭐⭐⭐⭐)
 - [Goodnight Punpun Omnibus, Vol. 4](https://www.goodreads.com/review/show/6456754433?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐⭐)
 - [Fahrenheit 451](https://www.goodreads.com/review/show/5094824919?utm_medium=api&utm_source=rss) by Ray Bradbury (⭐⭐⭐⭐)
 - [Kitchen Confidential: Adventures in the Culinary Underbelly](https://www.goodreads.com/review/show/6395750707?utm_medium=api&utm_source=rss) by Anthony Bourdain (⭐⭐⭐⭐)
 - [The Artist's Way: A Spiritual Path to Higher Creativity](https://www.goodreads.com/review/show/6265511422?utm_medium=api&utm_source=rss) by Julia Cameron (⭐⭐⭐⭐⭐)
-- [Alphabet Squadron (Star Wars: Alphabet Squadron, #1)](https://www.goodreads.com/review/show/6255444194?utm_medium=api&utm_source=rss) by Alexander Freed (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
