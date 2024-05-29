@@ -12,6 +12,8 @@ Howdy! I am Manuel a Business Intelligence Developer with a background in econom
 - AI: I believe AI is the future. This tool will determine the next decades of humanity. We need to embrace it! 🤖
   
 - Writing: Recently started writing more about my experiences in the data/coding world. You can read more on my [Linkedin](https://www.linkedin.com/in/manuelelizaldi/) and [Medium](https://medium.com/@manuelelizaldi)
+
+- After 4 years of Data Analysis/Business Intelligence experience, now I want to transition into a Data Engineering role. 🚀 
  
 ## Get in Touch 📫
 I am always open to meeting liked minded people and to collaborate! 
