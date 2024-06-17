@@ -74,6 +74,7 @@ I am always open to meeting liked minded people and to collaborate!
 [<img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='mongodb' height='29'>]()
 [<img src='https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white' alt='microsoft azure' height='29'>]()
 [<img src='https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white' alt='microsoft sql server' height='29'>]()
+[<img src='https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white' alt='Snowflake' height='29'>]()
 
 ### Productivity
 [<img src='https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036' alt='miro' height='29'>]()
