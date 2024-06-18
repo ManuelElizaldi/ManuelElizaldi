@@ -116,9 +116,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [Goodnight Punpun Omnibus, Vol. 6](https://www.goodreads.com/review/show/6595002400?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐)
 - [The Martian](https://www.goodreads.com/review/show/6581251362?utm_medium=api&utm_source=rss) by Andy Weir (⭐⭐⭐⭐⭐)
 - [El Dinero No Es El Problema, Tú Lo Eres - Money is Not the Problem Spanish (Spanish Edition)](https://www.goodreads.com/review/show/6564833318?utm_medium=api&utm_source=rss) by Gary M Douglas (⭐⭐⭐⭐)
 - [Goodnight Punpun Omnibus, Vol. 5](https://www.goodreads.com/review/show/6557322527?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐⭐)
 - [The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)](https://www.goodreads.com/review/show/6525053827?utm_medium=api&utm_source=rss) by Douglas Adams (⭐⭐⭐⭐⭐)
-- [Goodnight Punpun Omnibus, Vol. 4](https://www.goodreads.com/review/show/6456754433?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
