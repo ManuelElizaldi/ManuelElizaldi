@@ -116,9 +116,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [The Book of Ichigo Ichie: The Art of Making the Most of Every Moment, the Japanese Way](https://www.goodreads.com/review/show/6621106504?utm_medium=api&utm_source=rss) by Héctor  García (⭐⭐⭐⭐)
+- [Goodnight Punpun Omnibus, Vol. 7](https://www.goodreads.com/review/show/6621102120?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐⭐)
 - [Berserk, Vol. 1 (Berserk, #1)](https://www.goodreads.com/review/show/6614211044?utm_medium=api&utm_source=rss) by Kentaro Miura (⭐⭐⭐⭐⭐)
 - [Goodnight Punpun Omnibus, Vol. 6](https://www.goodreads.com/review/show/6595002400?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐)
 - [The Martian](https://www.goodreads.com/review/show/6581251362?utm_medium=api&utm_source=rss) by Andy Weir (⭐⭐⭐⭐⭐)
-- [El Dinero No Es El Problema, Tú Lo Eres - Money is Not the Problem Spanish (Spanish Edition)](https://www.goodreads.com/review/show/6564833318?utm_medium=api&utm_source=rss) by Gary M Douglas (⭐⭐⭐⭐)
-- [Goodnight Punpun Omnibus, Vol. 5](https://www.goodreads.com/review/show/6557322527?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
