@@ -116,9 +116,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [Berserk Deluxe Edition, Vol. 2](https://www.goodreads.com/review/show/6717496606?utm_medium=api&utm_source=rss) by Kentaro Miura (⭐⭐⭐⭐⭐)
+- [Berserk Deluxe Edition, Vol. 1](https://www.goodreads.com/review/show/6717155226?utm_medium=api&utm_source=rss) by Kentaro Miura (⭐⭐⭐⭐⭐)
+- [Alphabet Squadron (Star Wars: Alphabet Squadron, #1)](https://www.goodreads.com/review/show/6255444194?utm_medium=api&utm_source=rss) by Alexander Freed (⭐⭐⭐)
+- [Between Two Fires](https://www.goodreads.com/review/show/6717151935?utm_medium=api&utm_source=rss) by Christopher Buehlman (⭐⭐⭐⭐)
 - [The Book of Ichigo Ichie: The Art of Making the Most of Every Moment, the Japanese Way](https://www.goodreads.com/review/show/6621106504?utm_medium=api&utm_source=rss) by Héctor  García (⭐⭐⭐⭐)
-- [Goodnight Punpun Omnibus, Vol. 7](https://www.goodreads.com/review/show/6621102120?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐⭐)
-- [Berserk, Vol. 1 (Berserk, #1)](https://www.goodreads.com/review/show/6614211044?utm_medium=api&utm_source=rss) by Kentaro Miura (⭐⭐⭐⭐⭐)
-- [Goodnight Punpun Omnibus, Vol. 6](https://www.goodreads.com/review/show/6595002400?utm_medium=api&utm_source=rss) by Inio Asano (⭐⭐⭐⭐)
-- [The Martian](https://www.goodreads.com/review/show/6581251362?utm_medium=api&utm_source=rss) by Andy Weir (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
