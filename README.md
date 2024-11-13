@@ -116,9 +116,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [El llano en llamas](https://www.goodreads.com/review/show/7001549640?utm_medium=api&utm_source=rss) by Juan Rulfo (⭐⭐⭐⭐)
 - [Shadow Fall (Star Wars: Alphabet Squadron, #2)](https://www.goodreads.com/review/show/6942626329?utm_medium=api&utm_source=rss) by Alexander Freed (⭐⭐⭐)
 - [Normal People](https://www.goodreads.com/review/show/6835654670?utm_medium=api&utm_source=rss) by Sally Rooney (⭐⭐⭐⭐)
 - [More Days at the Morisaki Bookshop (Days at the Morisaki Bookshop, #2)](https://www.goodreads.com/review/show/6792350037?utm_medium=api&utm_source=rss) by Satoshi Yagisawa (⭐⭐⭐⭐)
 - [Days at the Morisaki Bookshop (Days at the Morisaki Bookshop, #1)](https://www.goodreads.com/review/show/6728546297?utm_medium=api&utm_source=rss) by Satoshi Yagisawa (⭐⭐⭐⭐⭐)
-- [Berserk Deluxe Edition, Vol. 2](https://www.goodreads.com/review/show/6717496606?utm_medium=api&utm_source=rss) by Kentaro Miura (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
