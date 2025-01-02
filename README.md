@@ -116,9 +116,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [Piranesi](https://www.goodreads.com/review/show/7152780574?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐⭐⭐⭐)
 - [The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy, #2)](https://www.goodreads.com/review/show/7082574275?utm_medium=api&utm_source=rss) by Douglas Adams (⭐⭐⭐⭐)
 - [El llano en llamas](https://www.goodreads.com/review/show/7001549640?utm_medium=api&utm_source=rss) by Juan Rulfo (⭐⭐⭐⭐)
 - [Shadow Fall (Star Wars: Alphabet Squadron, #2)](https://www.goodreads.com/review/show/6942626329?utm_medium=api&utm_source=rss) by Alexander Freed (⭐⭐⭐)
 - [Normal People](https://www.goodreads.com/review/show/6835654670?utm_medium=api&utm_source=rss) by Sally Rooney (⭐⭐⭐⭐)
-- [More Days at the Morisaki Bookshop (Days at the Morisaki Bookshop, #2)](https://www.goodreads.com/review/show/6792350037?utm_medium=api&utm_source=rss) by Satoshi Yagisawa (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
