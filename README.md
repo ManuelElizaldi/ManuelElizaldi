@@ -116,9 +116,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [Rise of the Horde (World of Warcraft, #2)](https://www.goodreads.com/review/show/7433540816?utm_medium=api&utm_source=rss) by Christie Golden (⭐⭐⭐⭐⭐)
 - [Letters to a Young Poet](https://www.goodreads.com/review/show/7381364846?utm_medium=api&utm_source=rss) by Rainer Maria Rilke (⭐⭐⭐)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/7351833725?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐⭐⭐⭐)
 - [The Painted Bird](https://www.goodreads.com/review/show/7270432924?utm_medium=api&utm_source=rss) by Jerzy Kosiński (⭐⭐⭐⭐)
 - [Piranesi](https://www.goodreads.com/review/show/7152780574?utm_medium=api&utm_source=rss) by Susanna Clarke (⭐⭐⭐⭐)
-- [The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy, #2)](https://www.goodreads.com/review/show/7082574275?utm_medium=api&utm_source=rss) by Douglas Adams (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
