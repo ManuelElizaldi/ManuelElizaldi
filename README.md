@@ -88,8 +88,8 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Recent GitHub Activity :zap:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [ManuelElizaldi/Obsidian](https://github.com/ManuelElizaldi/Obsidian)
-2. ⭐ Starred [igorbarinov/awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
+1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+2. 📔 Created new repository [ManuelElizaldi/Obsidian](https://github.com/ManuelElizaldi/Obsidian)
 3. 📔 Created new repository [ManuelElizaldi/CS50](https://github.com/ManuelElizaldi/CS50)
 <!--RECENT_ACTIVITY:end-->
 
