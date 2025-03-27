@@ -77,6 +77,8 @@ I am always open to meeting liked minded people and to collaborate!
 [<img src='https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white' alt='Snowflake' height='29'>]()
 [<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" height="29">]()
 
+### Automation
+[<img src='https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white' alt='airflow' height='29'>]()
 
 ### Productivity
 [<img src='https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036' alt='miro' height='29'>]()
@@ -84,7 +86,6 @@ I am always open to meeting liked minded people and to collaborate!
 [<img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white' alt='google cloud' height='29'>]()
 
 ### Tools I want to learn 
-[<img src='https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white' alt='airflow' height='29'>]()
 [<img src='https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white' alt='kafka' height='29'>]()
 [<img src='https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16' alt='apache spark ' height='29'>]()
 
