@@ -85,6 +85,9 @@ I am always open to meeting liked minded people and to collaborate!
 [<img src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white' alt='trello' height='29'>]()
 [<img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white' alt='google cloud' height='29'>]()
 
+### Tools I am learning
+[<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" height="29">]()
+
 ### Tools I want to learn 
 [<img src='https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white' alt='kafka' height='29'>]()
 [<img src='https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16' alt='apache spark ' height='29'>]()
