@@ -122,9 +122,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [Pedro Páramo](https://www.goodreads.com/review/show/7480283432?utm_medium=api&utm_source=rss) by Juan Rulfo (⭐⭐⭐⭐)
 - [Lord of the Clans (WarCraft, #2)](https://www.goodreads.com/review/show/7453689498?utm_medium=api&utm_source=rss) by Christie Golden (⭐⭐⭐⭐⭐)
 - [Rise of the Horde (World of Warcraft, #2)](https://www.goodreads.com/review/show/7433540816?utm_medium=api&utm_source=rss) by Christie Golden (⭐⭐⭐⭐⭐)
 - [Letters to a Young Poet](https://www.goodreads.com/review/show/7381364846?utm_medium=api&utm_source=rss) by Rainer Maria Rilke (⭐⭐⭐)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/7351833725?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐⭐⭐⭐)
-- [The Painted Bird](https://www.goodreads.com/review/show/7270432924?utm_medium=api&utm_source=rss) by Jerzy Kosiński (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
