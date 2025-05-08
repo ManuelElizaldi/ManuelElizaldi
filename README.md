@@ -94,8 +94,8 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Recent GitHub Activity :zap:
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [ManuelElizaldi/raspberry_pi_lights](https://github.com/ManuelElizaldi/raspberry_pi_lights)
-2. 📔 Created new repository [ManuelElizaldi/Obsidian](https://github.com/ManuelElizaldi/Obsidian)
+1. 📔 Created new repository [ManuelElizaldi/Game_Development_Learning](https://github.com/ManuelElizaldi/Game_Development_Learning)
+2. 📔 Created new repository [ManuelElizaldi/raspberry_pi_lights](https://github.com/ManuelElizaldi/raspberry_pi_lights)
 3. 📔 Created new repository [ManuelElizaldi/CS50](https://github.com/ManuelElizaldi/CS50)
 <!--RECENT_ACTIVITY:end-->
 
