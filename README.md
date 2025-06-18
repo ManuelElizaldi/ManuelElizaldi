@@ -122,9 +122,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [Cyberpunk 2077: No Coincidence](https://www.goodreads.com/review/show/7664502758?utm_medium=api&utm_source=rss) by Rafał Kosik (⭐⭐⭐)
 - [Norwegian Wood](https://www.goodreads.com/review/show/7624338614?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐⭐⭐⭐⭐)
 - [Neuromancer (Sprawl, #1)](https://www.goodreads.com/review/show/7598157654?utm_medium=api&utm_source=rss) by William Gibson (⭐⭐⭐⭐⭐)
 - [Intermezzo](https://www.goodreads.com/review/show/7536653644?utm_medium=api&utm_source=rss) by Sally Rooney (⭐⭐⭐⭐)
 - [Where Angels Fear to Tread](https://www.goodreads.com/review/show/7493157583?utm_medium=api&utm_source=rss) by E.M. Forster (⭐⭐⭐)
-- [Pedro Páramo](https://www.goodreads.com/review/show/7480283432?utm_medium=api&utm_source=rss) by Juan Rulfo (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
