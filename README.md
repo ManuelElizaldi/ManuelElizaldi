@@ -122,9 +122,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [Rise of the Horde (World of Warcraft, #2)](https://www.goodreads.com/review/show/7433540816?utm_medium=api&utm_source=rss) by Christie Golden (⭐⭐⭐⭐)
+- [What I Talk About When I Talk About Running](https://www.goodreads.com/review/show/7700947906?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐⭐⭐⭐⭐)
 - [Cyberpunk 2077: No Coincidence](https://www.goodreads.com/review/show/7664502758?utm_medium=api&utm_source=rss) by Rafał Kosik (⭐⭐⭐)
 - [Norwegian Wood](https://www.goodreads.com/review/show/7624338614?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐⭐⭐⭐⭐)
 - [Neuromancer (Sprawl, #1)](https://www.goodreads.com/review/show/7598157654?utm_medium=api&utm_source=rss) by William Gibson (⭐⭐⭐⭐⭐)
-- [Intermezzo](https://www.goodreads.com/review/show/7536653644?utm_medium=api&utm_source=rss) by Sally Rooney (⭐⭐⭐⭐)
-- [Where Angels Fear to Tread](https://www.goodreads.com/review/show/7493157583?utm_medium=api&utm_source=rss) by E.M. Forster (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
