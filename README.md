@@ -122,9 +122,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [11/22/63](https://www.goodreads.com/review/show/7787861224?utm_medium=api&utm_source=rss) by Stephen        King (⭐⭐⭐⭐⭐)
 - [The Infinity Gauntlet](https://www.goodreads.com/review/show/7724229966?utm_medium=api&utm_source=rss) by Jim Starlin (⭐⭐⭐)
 - [The Punisher, Vol. 1: Welcome Back, Frank](https://www.goodreads.com/review/show/7706920994?utm_medium=api&utm_source=rss) by Garth Ennis (⭐⭐⭐⭐)
 - [Rise of the Horde (World of Warcraft, #2)](https://www.goodreads.com/review/show/7433540816?utm_medium=api&utm_source=rss) by Christie Golden (⭐⭐⭐⭐)
 - [What I Talk About When I Talk About Running](https://www.goodreads.com/review/show/7700947906?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐⭐⭐⭐⭐)
-- [Cyberpunk 2077: No Coincidence](https://www.goodreads.com/review/show/7664502758?utm_medium=api&utm_source=rss) by Rafał Kosik (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
