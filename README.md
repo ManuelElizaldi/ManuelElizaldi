@@ -122,9 +122,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [A Wild sheep chase, kafka on the shore and wind-up bird chronicle 3 books collection set](https://www.goodreads.com/review/show/7906893218?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐⭐⭐⭐)
 - [Vermis, Lost Dungeons and Forbidden Woods (Vermis, #1)](https://www.goodreads.com/review/show/7848792513?utm_medium=api&utm_source=rss) by Plastiboo (⭐⭐⭐⭐⭐)
 - [La broma](https://www.goodreads.com/review/show/7831568476?utm_medium=api&utm_source=rss) by Milan Kundera (⭐⭐)
 - [Murakami T: The T-Shirts I Love](https://www.goodreads.com/review/show/7803458071?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐⭐⭐⭐)
 - [11/22/63](https://www.goodreads.com/review/show/7787861224?utm_medium=api&utm_source=rss) by Stephen        King (⭐⭐⭐⭐⭐)
-- [The Infinity Gauntlet](https://www.goodreads.com/review/show/7724229966?utm_medium=api&utm_source=rss) by Jim Starlin (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
