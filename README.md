@@ -122,9 +122,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [Neuromancer (Sprawl, #1)](https://www.goodreads.com/review/show/7598157654?utm_medium=api&utm_source=rss) by William Gibson (⭐⭐⭐⭐)
+- [Butter](https://www.goodreads.com/review/show/7969649980?utm_medium=api&utm_source=rss) by Asako Yuzuki (⭐⭐⭐⭐)
 - [A Wild sheep chase, kafka on the shore and wind-up bird chronicle 3 books collection set](https://www.goodreads.com/review/show/7906893218?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐⭐⭐⭐)
 - [Vermis, Lost Dungeons and Forbidden Woods (Vermis, #1)](https://www.goodreads.com/review/show/7848792513?utm_medium=api&utm_source=rss) by Plastiboo (⭐⭐⭐⭐⭐)
 - [La broma](https://www.goodreads.com/review/show/7831568476?utm_medium=api&utm_source=rss) by Milan Kundera (⭐⭐)
-- [Murakami T: The T-Shirts I Love](https://www.goodreads.com/review/show/7803458071?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐⭐⭐⭐)
-- [11/22/63](https://www.goodreads.com/review/show/7787861224?utm_medium=api&utm_source=rss) by Stephen        King (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
