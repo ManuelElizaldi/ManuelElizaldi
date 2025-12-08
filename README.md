@@ -122,7 +122,7 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
-- [El Dinero No Es El Problema, Tú Lo Eres - Money is Not the Problem Spanish (Spanish Edition)](https://www.goodreads.com/review/show/6564833318?utm_medium=api&utm_source=rss) by Gary M. Douglas (⭐⭐⭐⭐)
+- [El Dinero No Es El Problema, Tú Lo Eres](https://www.goodreads.com/review/show/6564833318?utm_medium=api&utm_source=rss) by Gary M. Douglas (⭐⭐⭐⭐)
 - [Golden Son (Red Rising Saga, #2)](https://www.goodreads.com/review/show/8098575904?utm_medium=api&utm_source=rss) by Pierce Brown (⭐⭐⭐⭐)
 - [Red Rising (Red Rising Saga, #1)](https://www.goodreads.com/review/show/8011365544?utm_medium=api&utm_source=rss) by Pierce Brown (⭐⭐⭐)
 - [The Exorcist (The Exorcist, #1)](https://www.goodreads.com/review/show/8034874110?utm_medium=api&utm_source=rss) by William Peter Blatty (⭐⭐⭐⭐)
