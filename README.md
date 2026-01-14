@@ -117,7 +117,7 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Books I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Shoe Dog: A Memoir by the Creator of Nike](https://www.goodreads.com/review/show/5715629722?utm_medium=api&utm_source=rss) by Phil Knight (unrated)
+- [The Count of Monte Cristo](https://www.goodreads.com/review/show/8261620140?utm_medium=api&utm_source=rss) by Alexandre Dumas (unrated)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Books I read
