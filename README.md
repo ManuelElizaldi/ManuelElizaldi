@@ -122,9 +122,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [The Count of Monte Cristo](https://www.goodreads.com/review/show/8261620140?utm_medium=api&utm_source=rss) by Alexandre Dumas (⭐⭐⭐⭐⭐)
 - [Steal Like an Artist: 10 Things Nobody Told You About Being Creative](https://www.goodreads.com/review/show/8466892937?utm_medium=api&utm_source=rss) by Austin Kleon (⭐⭐⭐⭐)
 - [The Exorcist (The Exorcist, #1)](https://www.goodreads.com/review/show/8034874110?utm_medium=api&utm_source=rss) by William Peter Blatty (⭐⭐⭐⭐)
 - [Golden Son (Red Rising Saga, #2)](https://www.goodreads.com/review/show/8098575904?utm_medium=api&utm_source=rss) by Pierce Brown (⭐⭐⭐⭐)
 - [Morning Star (Red Rising Saga, #3)](https://www.goodreads.com/review/show/8153775384?utm_medium=api&utm_source=rss) by Pierce Brown (⭐⭐⭐⭐⭐)
-- [El Dinero No Es El Problema, Tú Lo Eres](https://www.goodreads.com/review/show/6564833318?utm_medium=api&utm_source=rss) by Gary M. Douglas (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
