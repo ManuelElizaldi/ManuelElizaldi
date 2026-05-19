@@ -122,9 +122,9 @@ I am always open to meeting liked minded people and to collaborate!
 
 ### Last Books I read
 <!-- GOODREADS-READ-LIST:START -->
+- [On Writing and Failure: Or, On the Peculiar Perseverance Required to Endure the Life of a Writer (Field Notes)](https://www.goodreads.com/review/show/8614192698?utm_medium=api&utm_source=rss) by Stephen Marche (⭐⭐⭐⭐⭐)
 - [Miss Lonleyhearts and the Day of the Locust](https://www.goodreads.com/review/show/8600739049?utm_medium=api&utm_source=rss) by Nathanael West (⭐⭐⭐⭐)
 - [Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream](https://www.goodreads.com/review/show/8588302918?utm_medium=api&utm_source=rss) by Hunter S. Thompson (⭐⭐⭐⭐⭐)
 - [My Year of Rest and Relaxation](https://www.goodreads.com/review/show/8562326941?utm_medium=api&utm_source=rss) by Ottessa Moshfegh (⭐⭐⭐⭐)
 - [The Count of Monte Cristo](https://www.goodreads.com/review/show/8261620140?utm_medium=api&utm_source=rss) by Alexandre Dumas (⭐⭐⭐⭐⭐)
-- [Steal Like an Artist: 10 Things Nobody Told You About Being Creative](https://www.goodreads.com/review/show/8466892937?utm_medium=api&utm_source=rss) by Austin Kleon (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
