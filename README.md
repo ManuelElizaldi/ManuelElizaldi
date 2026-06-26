@@ -3,7 +3,7 @@
 
 **Cloud Data Engineer · AWS Certified Solutions Architect – Associate**
 
-I build and operate the infrastructure that holds data. Eight years working with data across healthcare and high-growth startups — three of them deep in HIPAA-regulated systems at a national health system — now extending into cloud and platform engineering through production deployments, a multi-node home lab, and a public HIPAA-compliant AWS lab series.
+I build and operate the infrastructure that holds data. Eight years working with data across healthcare and high-growth startups — three of them deep in HIPAA-regulated systems at a national health system. Now extending into cloud and platform engineering through production deployments, a multi-node home lab, and a public HIPAA-compliant AWS lab series.
 
 [manuel-elizaldi.com](https://manuel-elizaldi.com) · [LinkedIn](https://linkedin.com/in/manuel-elizaldi)
 
